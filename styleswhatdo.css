@@ -1,10 +1,6 @@
-@font-face {
-    font-family: 'Blippo';
-    src: url('fonts/Blippo.ttf') format('truetype');
-}
 
 body {
-    font-family: 'Blippo', sans-serif;
+    font-family: 'Georgia', serif;
     background-color: #B49513;
     display: flex;
     justify-content: center;
