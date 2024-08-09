@@ -1,5 +1,9 @@
+@font-face {
+    font-family: 'Blippo';
+    src: url('fonts/Blippo.ttf') format('truetype');
+}
 body {
-    font-family: 'Bryndan Write', cursive;
+    font-family: 'Blippo', sans-serif;
     background-color: #f0f0f0;
     color: #333;
     text-align: center;

@@ -1,7 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Bryndan+Write&display=swap');
+@font-face {
+    font-family: 'Blippo';
+    src: url('fonts/Blippo.ttf') format('truetype');
+}
 
 body {
-    font-family: 'Bryndan Write', cursive;
+    font-family: 'Blippo', sans-serif;
     background-color: #B49513;
     display: flex;
     justify-content: center;
